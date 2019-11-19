@@ -1,2 +1,2 @@
 # sequelize
-sequelize migration, seed 사용 aws 배포
+sequelize migration, csv파일 seed 사용 aws 배포
